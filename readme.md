@@ -589,3 +589,6 @@ git commit -am "Navigation fixs"   # сделать коммит
 *.css  diff=css
 *.scss diff=css
 ```
+# git push -отправить
+# git clone - склонировать
+# git pull - обновить
